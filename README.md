@@ -1,5 +1,5 @@
 
-# UDSClub ML Course
+# Lublin Data Science Course
 **Welcome to the course homepage**
 
 **Please find installation guide described below**
